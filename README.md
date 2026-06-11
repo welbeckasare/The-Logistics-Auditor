@@ -1,7 +1,7 @@
-# Project Brief: The "Last Mile" Logistics Auditor
+EXECUTIVE SUMMARY
+From the results of my analysis, it was confirmed that, delivery delays is actually a primary factor of negative customer reviews which in turn mostly leads to customer churn with average reviews dropping from 4.29 to 3.46 for late deliveries, and from 4.29 to 1.78 for sper late deliveries. Furthermore, beyond immediate feedback, these logistics failures significantly damage customer retention, as first-time customers who experience delays are far less likely to return. This suggests that, delivery inefficiencies and ineffectiveness, actually affects brand reputation, customer retention which may in effect damage profitability.
 
-**Client:** Veridi Logistics (Global E-Commerce Aggregator)  
-**Deliverable:** Public Dashboard, Code Notebook & Insight Presentation
+Link to streamlit dashboard
 
 ---
 
